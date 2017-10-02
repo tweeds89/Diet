@@ -1,0 +1,76 @@
+.newMeal {
+  color: #000080;
+  font-size:35px;
+  font-family:Purisa,serif;
+  line-height:130%;
+  text-align: center;
+  background-image: url("wallpaperDiet.jpg");
+  background-attachment: fixed;
+  background-size:100%; 
+ 
+}
+
+.tabela {
+  color: #000080;
+  font-size:15px;
+  font-family:Purisa,serif;
+  line-height:130%;
+  text-align: center;
+}
+
+h1{
+ color: #000080;
+ font-family:Purisa,serif;
+}
+
+input {
+  font-size:25px;
+}
+
+::-webkit-input-placeholder {
+   font-size: 15px;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.select {
+  font-size:25px;
+  background-color: white;
+  font-family:Purisa,serif;
+}
+
+.selectFive {
+  font-size:15px;
+  background-color: white;
+  font-family:Purisa,serif;
+}
+
+
+
+.fiveMeals {
+  color: #000080;
+  font-size:25px;
+  font-family:Purisa,serif;
+  line-height:160%;
+  text-align: center;
+  background-image: url("wallpaperDiet.jpg");
+  background-attachment: fixed;
+  background-size:100%; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
