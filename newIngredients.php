@@ -30,12 +30,11 @@
             $result = $conn->query($sql);
            
               if ($result){  
-               echo "Składnik: $ingredient został dodany <br>";
+                echo "Składnik: $ingredient został dodany <br>";
                
               }else{             
-               echo "Niestety składnik nie został dodany. Być może taki składnik już istnieje <br>";
-              }
-              
+                echo "Niestety składnik nie został dodany. Być może taki składnik już istnieje <br>";
+              }             
         }else{
           echo "Proszę wpisać nazwę produktu <br>";
         }
